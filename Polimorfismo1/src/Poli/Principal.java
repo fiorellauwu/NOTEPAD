@@ -17,6 +17,8 @@ public class Principal {
 		
 		
 		Vehiculo vehiculo = new VehiculoTurismo(4,"GZ67","Ferrari","A89");
+		Vehiculo vehiculo1 = new VehiculoDeportivo(0, "65DF", "Toyota", "Yaris");
+		
 		System.out.println(vehiculo);
 	}
 	}
